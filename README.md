@@ -1,4 +1,4 @@
-# Learning-Roadmap-Generator
+# Learning Roadmap Generator
 This project will be an open-source tool that takes a topic, a user's current knowledge level, and their learning style preferences, and then generates a personalized, adaptive learning pathway. It won't teach the content directly (that's for future, more complex projects), but rather guide the learner through a curated sequence of existing resources (articles, videos, interactive exercises, books, etc.).
 
 ### Project Goals:
